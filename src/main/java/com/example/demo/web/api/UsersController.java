@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.models.Users;
 import com.example.demo.services.impl.UsersServiceFeign;
 
+/* class UsersController */
 @RestController
 public class UsersController {
 	
